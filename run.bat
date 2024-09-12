@@ -1,1 +1,1 @@
-cd C:\Users\user\eclipse-workspace\GautamDemo\Test mvn test
+cd C:\Users\user\eclipse-workspace\GautamDemo\Test mvn test 
